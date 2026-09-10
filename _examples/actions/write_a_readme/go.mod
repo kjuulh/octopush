@@ -1,8 +1,8 @@
 module write_a_readme
 
-go 1.19
+go 1.25.0
 
-require github.com/bitfield/script v0.22.1
+require github.com/bitfield/script v0.25.1
 
 require (
 	bitbucket.org/creachadair/shell v0.0.7 // indirect
